@@ -1,2 +1,20 @@
 # Quizer_by_Atanu
-A Quizer is a web app where users can create and take quizzes. Node.js handles the backend, storing questions and scores, while HTML, CSS, and JavaScript build an interactive frontend. Users can answer questions, get instant feedback, and navigate quizzes easily, making it a simple, responsive learning tool.
+Quizer is a web-based quiz game that allows users to test their general knowledge across various categories. 
+The application provides a fun and educational experience by offering a mix of multiple-choice questions.
+## Features
+
+- Multiple-choice questions
+- Randomized question order
+- Persistent scoring using local storage
+- Display of question results and correct answers
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Fetch API
+
+## Visit Quick Quiz
+You can visit Quick Quiz <a href= " ">here</a>
+
+
