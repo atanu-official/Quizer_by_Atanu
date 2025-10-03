@@ -15,6 +15,6 @@ The application provides a fun and educational experience by offering a mix of m
 - Fetch API
 
 ## Visit Quick Quiz
-You can visit Quick Quiz <a href= " ">here</a>
+You can visit Quick Quiz <a href= "https://quizerbyab.vercel.app/">here</a>
 
 
